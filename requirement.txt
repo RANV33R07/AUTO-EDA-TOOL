@@ -7,3 +7,8 @@ chromadb
 pdf2image
 faiss-cpu
 langchain_google_genai
+matplotlib
+seaborn
+scikit-learn
+numpy
+pandas
